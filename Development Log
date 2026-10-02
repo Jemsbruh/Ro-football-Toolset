@@ -1,0 +1,104 @@
+# Development Log
+
+## Project
+
+**Name:** Roblox Football Toolset  
+**Developer:** JemsBruh 
+**Repository Created:** 10/2/2026  
+**Current Version:** 0.1.0
+
+---
+
+# Development Record
+
+## 2026-10-02 — Project Initialisation
+
+### Objective
+
+Created a new project for an independently developed Roblox football toolset.
+
+The objective is to develop custom systems for organised football matches, including match management, referee functionality, replay/review functionality, and related administrative features.
+
+### Initial Systems Planned
+
+- Match management
+- Player management
+- Ball management
+- Referee tools
+- Offside detection
+- Replay/review
+- Match event tracking
+- Administrative tools
+- UI
+
+### Development Status
+
+Project structure created.
+
+No production release has been made.
+
+---
+
+## 2026-10-XX — Architecture
+
+Designed the initial system architecture.
+
+### Server Systems
+
+- Match state
+- Player state
+- Ball state
+- Referee controls
+- Match events
+
+### Client Systems
+
+- Match UI
+- Referee UI
+- Replay interface
+- Administrative interface
+
+### Shared Systems
+
+- Configuration
+- Types
+- Utility modules
+
+---
+# Development Principles
+
+The project is developed using original implementation work.
+
+Where functionality is similar to existing football league systems, the implementation should be created independently rather than copied from third-party source code unless appropriate permission or licensing exists.
+
+Third-party materials must be recorded in:
+
+```text
+docs/THIRD_PARTY.md
+```
+
+---
+
+# Version History
+
+| Version | Date | Description |
+|---|---|---|
+| 0.1.0 | 10/2/2026 | Initial development |
+
+
+---
+
+# Authors
+
+## Primary Developer
+
+**Name:** Jemsbruh  
+**Role:** Developer / Project Owner
+
+## Contributors
+
+| Name | Contribution | Date |
+|---|---|---|
+None
+
+---
